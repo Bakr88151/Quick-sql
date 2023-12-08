@@ -1,0 +1,2 @@
+Quick sql:
+this program will convert any csv file to a sqlite3 table, the names of columns will be the same as the first row in the CSV file, to use simply execute: python3 app.py [CSV_file_path] [db_path] [table_name] Where table name is the desired name for the table you want to create.
